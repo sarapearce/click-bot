@@ -21,7 +21,7 @@ for (var i = 0; i < 15; i++) {
         }
     }, 1700*i);
     
-    //this is for testing that the clicker has completed. for some reason, its never completing
+    //this is for testing that the clicker has completed. for some reason, its inconsistently completing
     if (i == "14") {
         console.log("end");
     }
