@@ -1,6 +1,6 @@
 PURPOSE: This project is an automation I wrote as an efficiency for a task I was given by a client
 
-USE CASE: The client needed me to QA one of their exams where the students when through a pre-established
+USE CASE: The client needed me to QA one of their exams where the students went through a pre-established
 workflow of questions. The test had a set number of multiple choice questions, then the free response question after those. At
 the time of my testing, the client had no clean way to access those free response questions independent of the test system, so I literally
 had to click through 6-10 Multiple Choice questions, answers didn't matter, until I could get to a significant, 
