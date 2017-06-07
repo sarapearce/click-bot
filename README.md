@@ -8,7 +8,7 @@ testable question.
 
 HOW TO USE THE BOT: 
 1. Map the selectors in each function to buttons on your web page buttons you want clicked. 
-2. Copy/Paste into the console of your exam, hit enter.
+2. Copy/Paste into the Dev Inspector Console on the page of your exam, hit enter.
 3. Ta-Da, buttons are clicked to progress through the exam. Sit back. Drink iced tea.
 4. Once bot gets to a question without multiple choice buttons, the finite set of clicks with expire and you
 can test the question.
